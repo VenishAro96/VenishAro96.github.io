@@ -1,0 +1,29 @@
+.details{
+    text-align: right;
+}
+.smallbox{
+    text-align: center;
+}
+.projects{
+    background-color: #E8F3D6;
+}
+.tble{
+    background-color:#DCD7C9;
+}
+.white{
+    background-color: white;
+}
+.black{
+    background-color: #2B2B2B;
+    color: white;
+}
+.smallbox{
+    background-color: grey;
+    color: white;
+}
+.button{
+    background-color: #39B5E0;
+    color: white;
+    width: 80px;
+    height: 30px;
+}
