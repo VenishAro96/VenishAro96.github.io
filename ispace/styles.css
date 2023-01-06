@@ -1,0 +1,53 @@
+         body{
+    background-color: rgb(230, 237, 239);
+    font-family: Verdana, Helvetica, sans-serif;
+    }
+         
+          table{
+              background-color: white;
+          }
+          h1{
+              
+           font-weight: 100;
+          font-size: 65px;
+          font-size-adjust: inherit;
+          }
+          h3{
+           font-weight: 200;
+           
+           
+      
+          }
+          .hori{
+              display: block;
+  
+  border-style: dotted none none;
+  border-width: 10px;
+  width: 100px;
+  color: gainsboro;
+          }
+          .button{
+              background-color: black; color: white;width: 100px ;height: 40px;
+          }
+          .pict{
+              background-color: greenyellow;
+              color: white;
+              text-align: center;
+          }
+          .textplain{
+              background-color:darkslategray;
+              color: white;
+              text-align: center;
+              vertical-align: top;
+              height: 200px;
+          }
+          .symbol{
+              text-align: center;
+              background-color: greenyellow;
+              color: white;
+          }
+          .textgrey{
+              font-family: Arial, Helvetica, sans-serif;
+              color: grey;
+          }
+        

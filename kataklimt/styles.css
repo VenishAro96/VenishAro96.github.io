@@ -1,0 +1,38 @@
+body{
+    background-color: #1A120B;
+    font-family: Verdana, Helvetica, sans-serif;
+    }
+    .head{
+        background-color: #FEFCF3; 
+        
+    }
+    .dot {
+        height: 60px;
+        width: 60px;
+        background-color: rgb(225, 36, 49);
+        border-radius: 50%;
+        display:block;
+        text-align: center;
+      }
+      .head2{
+        color:grey;
+      }
+      .fashion{
+        font-family: Verdana, Helvetica, sans-serif;
+        background-color: #0F0E0E;
+        color: white;
+      }
+      .para{
+        color:grey
+      }
+      .buttons{
+        background-color: #FB2576;
+        width: 100px;
+        height: 40px;
+        color: white;
+        font-weight: 500;
+        
+      }
+      .abtme{
+        color: white;
+      }
