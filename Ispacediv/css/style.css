@@ -48,6 +48,10 @@ body {
 .text {
   font-size: 70px;
 }
+.text span{
+  font-size: 90px;
+  color: lawngreen;
+}
 .main-img {
   width: 100%;
   display: flex;
