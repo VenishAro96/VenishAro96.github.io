@@ -8,7 +8,7 @@
 
 .header {
   width: 100%;
-  background: url(images/bgimage.jpg);
+  background: url(/images/bgimage.JPG);
   background-repeat: no-repeat;
   height: 250px;
   display: flex;
