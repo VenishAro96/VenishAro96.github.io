@@ -1,0 +1,201 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+* {
+  font-family: "Poppins", sans-serif;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  margin: 0px 40px;
+  background-color: darkgray;
+}
+
+.nav-bar {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  height: 150px;
+  background-color: White;
+  align-content: center;
+}
+.nav-bar div {
+  height: 120px;
+  width: 120px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  color: grey;
+  margin: 0px 30px;
+  padding: 10px;
+  font-size: 20px;
+  font-weight: 400;
+}
+#home {
+  background-color: lawngreen;
+  color: white;
+  font-size: 20px;
+  font-weight: 400;
+}
+.logo-text {
+  width: 100%;
+  height: 150px;
+  display: flex;
+  background-color: white;
+  justify-content: center;
+  color: grey;
+}
+.text {
+  font-size: 70px;
+}
+.main-img {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  background-size: cover;
+  background-color: white;
+}
+#image {
+  width: 90%;
+  height: 600px;
+}
+.hori {
+  width: 100%;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+}
+.hori hr {
+  width: 100px;
+}
+.content {
+  width: 100%;
+  display: inline-flex;
+  justify-content: center;
+  background-color: white;
+  justify-items: center;
+}
+.right,
+.left,
+.center {
+  width: 26.35%;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  margin: 0px 40px;
+  background-color: white;
+}
+.txt-lorem {
+  height: 50px;
+  display: flex;
+  background-color: lawngreen;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+.right-img {
+  width: 100%;
+}
+.pics {
+  background-color: grey;
+}
+.para-content {
+  padding: 5px;
+
+  background-color: gray;
+}
+.para-content p,
+h3 {
+  color: white;
+  text-align: center;
+
+  font-weight: 400;
+}
+.lorem-container {
+  width: 100%;
+  background-color: white;
+  display: inline-flex;
+  justify-content: center;
+  flex-direction: row;
+}
+h4 {
+  color: greenyellow;
+  font-size: 20px;
+  font-weight: 400;
+}
+.right-lorem,
+.left-lorem,
+.center-lorem {
+  width: 26.35%;
+  display: flex;
+  flex-direction: column;
+  margin: 0px 40px;
+
+  padding: 40px 0px;
+  background-color: white;
+}
+.lorem-container p {
+  color: gray;
+  text-align: left;
+  line-height: 30px;
+}
+.lorem-container h3 {
+  font-size: 30px;
+  text-align: left;
+  color: black;
+  font-weight: 400;
+  vertical-align: top;
+}
+button {
+  width: 80px;
+  height: 30px;
+}
+.dollar-container {
+  width: 100%;
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+  padding: 0px 70px;
+  justify-content: space-between;
+}
+.number {
+  width: 45%;
+  display: flex;
+  flex-direction: row;
+
+  margin: 30px 0px;
+}
+.dollar {
+  width: 45%;
+  display: flex;
+  flex-direction: row;
+  margin: 30px 0px;
+}
+#num,
+#dol {
+  width: 300px;
+  font-size: 60px;
+  font-weight: 700;
+  background-color: greenyellow;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+.para {
+  padding: 10px;
+  background-color: grey;
+}
+.para p {
+  color: white;
+}
+.footer {
+  color: grey;
+  background-color: white;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding: 50px 0px;
+}
